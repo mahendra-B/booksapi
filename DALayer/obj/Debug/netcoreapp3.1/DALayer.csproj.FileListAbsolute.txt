@@ -1,0 +1,13 @@
+E:\dotnetcorebooksapp\DALayer\bin\Debug\netcoreapp3.1\DALayer.deps.json
+E:\dotnetcorebooksapp\DALayer\bin\Debug\netcoreapp3.1\DALayer.runtimeconfig.json
+E:\dotnetcorebooksapp\DALayer\bin\Debug\netcoreapp3.1\DALayer.runtimeconfig.dev.json
+E:\dotnetcorebooksapp\DALayer\bin\Debug\netcoreapp3.1\DALayer.dll
+E:\dotnetcorebooksapp\DALayer\bin\Debug\netcoreapp3.1\DALayer.pdb
+E:\dotnetcorebooksapp\DALayer\obj\Debug\netcoreapp3.1\DALayer.csproj.AssemblyReference.cache
+E:\dotnetcorebooksapp\DALayer\obj\Debug\netcoreapp3.1\DALayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnetcorebooksapp\DALayer\obj\Debug\netcoreapp3.1\DALayer.AssemblyInfoInputs.cache
+E:\dotnetcorebooksapp\DALayer\obj\Debug\netcoreapp3.1\DALayer.AssemblyInfo.cs
+E:\dotnetcorebooksapp\DALayer\obj\Debug\netcoreapp3.1\DALayer.csproj.CoreCompileInputs.cache
+E:\dotnetcorebooksapp\DALayer\obj\Debug\netcoreapp3.1\DALayer.dll
+E:\dotnetcorebooksapp\DALayer\obj\Debug\netcoreapp3.1\DALayer.pdb
+E:\dotnetcorebooksapp\DALayer\obj\Debug\netcoreapp3.1\DALayer.genruntimeconfig.cache
