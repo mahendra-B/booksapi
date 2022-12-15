@@ -1,3 +1,5 @@
+using DALayer.genericrepo;
+using DALayer.models;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
@@ -25,6 +27,8 @@ namespace dotnetcorebooksapp
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.AddTransient<bookstoreContext>();
+            services.AddTransient(typeof(IGenericrepo<>), typeof(GenericRepoService<>));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
