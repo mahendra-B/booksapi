@@ -40,7 +40,7 @@ namespace DALayer.genericrepo
            return table.ToList();
         }
 
-        public T GetById(object id)
+        public T GetbyId(long id)
         {
             T rec = table.Find(id);
 

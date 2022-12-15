@@ -34,14 +34,14 @@ namespace dotnetcorebooksapp.Controllers
 
         }
         [HttpGet("GetBookByid")]
-        public ActionResult GetBookById(int id)
-        
+        public ActionResult GetBookById(long id)
+      
         {
             try
             {
-                return Ok( ser.GetById(id));
-               
 
+                return Ok(ser.GetbyId(id));
+              
             }
             catch(Exception e)
             {

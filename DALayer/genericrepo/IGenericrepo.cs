@@ -8,7 +8,8 @@ namespace DALayer.genericrepo
     {
         IEnumerable<T> GetAll();
 
-        T GetById(object id);
+        //T GetbyId(object id);
+        T GetbyId(long id);
 
         void insert(T obj);
 

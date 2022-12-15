@@ -62,3 +62,8 @@ E:\dotnetcorebooksapp\dotnetcorebooksapp\bin\Debug\netcoreapp3.1\runtimes\win\li
 E:\dotnetcorebooksapp\dotnetcorebooksapp\bin\Debug\netcoreapp3.1\DALayer.dll
 E:\dotnetcorebooksapp\dotnetcorebooksapp\bin\Debug\netcoreapp3.1\DALayer.pdb
 E:\dotnetcorebooksapp\dotnetcorebooksapp\obj\Debug\netcoreapp3.1\dotnetcorebooksapp.csproj.CopyComplete
+E:\dotnetcorebooksapp\dotnetcorebooksapp\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\dotnetcorebooksapp\dotnetcorebooksapp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\dotnetcorebooksapp\dotnetcorebooksapp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\dotnetcorebooksapp\dotnetcorebooksapp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\dotnetcorebooksapp\dotnetcorebooksapp\obj\Debug\netcoreapp3.1\dotnetcorebooksapp.MvcApplicationPartsAssemblyInfo.cs
