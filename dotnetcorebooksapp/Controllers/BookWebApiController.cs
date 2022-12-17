@@ -48,5 +48,47 @@ namespace dotnetcorebooksapp.Controllers
                 return BadRequest(e.Message);
             }
         }
+        [HttpDelete("deleterecord")]
+        public IActionResult Deletebook(long id)
+        {
+            try
+            {
+                ser.delete(id);
+                return Ok("record deleted...");
+
+            }
+            catch (Exception e)
+            {
+                return BadRequest(e.Message);
+            }
+        }
+        [HttpPut("updarerecord")]
+        public IActionResult Updatebook(Book obj)
+        {
+            try
+            {
+                ser.update(obj);
+                return Ok("record updated...");
+
+            }
+            catch (Exception e)
+            {
+                return BadRequest(e.Message);
+            }
+        }
+        [HttpPost("recordinserted")]
+        public IActionResult insertbook(Book obj)
+        {
+            try
+            {
+                ser.insert(obj);
+                return Ok("record inserted...");
+
+            }
+            catch (Exception e)
+            {
+                return BadRequest(e.Message);
+            }
+        }
     }
 }
